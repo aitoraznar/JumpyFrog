@@ -1,6 +1,8 @@
 JumpyFrog
 =========
 
+<img src="http://www.aitoraznar.com/images/Jumpy_Frog.png" alt="JumpyFrog gameplay" title="JumpyFrog gameplay"/>
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Aitor Aznar Álvarez
