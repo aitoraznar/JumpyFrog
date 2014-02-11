@@ -1,7 +1,7 @@
 JumpyFrog
 =========
 
-<img src="http://www.aitoraznar.com/images/Jumpy_Frog.png" alt="JumpyFrog gameplay" title="JumpyFrog gameplay" style="width: 300px;"/>
+<img src="http://www.aitoraznar.com/images/Jumpy_Frog.png" alt="JumpyFrog gameplay" title="JumpyFrog gameplay" style="width: 365px; max-width: 365px;"/>
 
 The MIT License (MIT)
 
